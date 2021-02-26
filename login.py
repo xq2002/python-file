@@ -42,6 +42,8 @@ if not slider.is_displayed():
 com.click()
 
 
+
+
 #com.click()
 #blo = driver.find_element_by_id("baxia-password")
 #print(blo.get_attribute("outerHTML"))
